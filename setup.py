@@ -23,7 +23,7 @@ extras_require = {
 
 setup(
     name='motob',
-    version='0.4.31',
+    version='0.4.32',
     description='A library that allows your python tests to easily'
                 ' mock out the boto library',
     author='Steve Pulec',
